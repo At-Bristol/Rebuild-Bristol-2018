@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2018-07-30 13:17:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-07-30 13:29:02 +0200"
+    },
+    "done": true
+  }
+}
