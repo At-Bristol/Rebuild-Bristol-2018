@@ -2,8 +2,8 @@
 
 ## *If you could rebuild the centre of Bristol, what would you create?*
 
-As part of our 2108 Festival of What If, we invited visitors to reimagine the center of Bristol by rebuilding it in Minecraft.
-Using some awesome software that you can grab for free, we generated a Minecraft map of Bristol city center.
+As part of our 2018 Festival of What If, we invited visitors to reimagine the centre of Bristol by rebuilding it in Minecraft.
+Using some awesome software that you can grab for free, we generated a Minecraft map of Bristol city centre.
 
 (You can dowload the software to make your own maps [here](https://github.com/cgutteridge/geocraft) and find a step-by-step guide to using it [here](https://www.instructables.com/id/Real-world-Minecraft-Maps/)
 
